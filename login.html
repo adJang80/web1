@@ -9,7 +9,7 @@
     <meta name="author" content="">
 
     <title>SB Admin 2 - Login</title>
-
+    <link rel="manifest" href="manifest.json" />
     <!-- Custom fonts for this template-->
     <link href="css/fontawesome-free/all.min.css" rel="stylesheet" type="text/css">
     <link
@@ -18,7 +18,11 @@
 
     <!-- Custom styles for this template-->
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
-
+    <script type="module">
+        import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+        const el = document.createElement('pwa-update');
+        document.body.appendChild(el);
+     </script>
 </head>
 
 <body class="bg-gradient-primary">
