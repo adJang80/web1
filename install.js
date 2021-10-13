@@ -1,3 +1,4 @@
+
 let deferredInstallPrompt = null;
 let installButton = null;
 
