@@ -23,14 +23,14 @@
         "name": "How's weather today?",
         "short_name": "Today",
         "description": "View weather information for today",
-        "url": "/today?source=pwa",
-        "icons": [{ "src": "images/today.png", "sizes": "192x192" }]
+        "url": "/web1/today?source=pwa",
+        "icons": [{ "src": "/web1/images/today.png", "sizes": "192x192" }]
       },
       {
         "name": "How's weather tomorrow?",
         "short_name": "Tomorrow",
         "description": "View weather information for tomorrow",
-        "url": "/tomorrow?source=pwa",
+        "url": "/web1/tomorrow?source=pwa",
         "icons": [{ "src": "/web1/images/tomorrow.png", "sizes": "192x192" }]
       }
     ],
