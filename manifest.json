@@ -50,7 +50,7 @@
         "name": "How's weather tomorrow?",
         "short_name": "Tomorrow",
         "description": "View weather information for tomorrow",
-        "url": "/web1/tomorrow?source=pwa",
+        "url": "/web1/login.html?source=pwa",
         "icons": [{ "src": "/web1/images/tomorrow.png", "sizes": "192x192" }]
       }
     ],
