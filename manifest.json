@@ -3,12 +3,12 @@
     "name": "Weather: Do I need an umbrella?",
     "icons": [
       {
-        "src": "images/icons-192.png",
+        "src": "/web1/images/icons-192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "images/icons-512.png",
+        "src": "/web1/images/icons-512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
@@ -37,12 +37,12 @@
     "description": "Weather forecast information",
     "screenshots": [
       {
-        "src": "images/screenshot1.png",
+        "src": "/web1/images/screenshot1.png",
         "type": "image/png",
         "sizes": "540x720"
       },
       {
-        "src": "images/screenshot2.jpg",
+        "src": "/web1/images/screenshot2.jpg",
         "type": "image/jpg",
         "sizes": "540x720"
       }
