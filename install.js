@@ -17,7 +17,7 @@ function saveBeforeInstallPromptEvent(evt){
     installButton.removeAttribute('hidden');
 }
 
-function insinstallPWA(){
+function installPWA(){
     deferredInstallPrompt.prompt();
 
     installButton.remove();
