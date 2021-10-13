@@ -31,7 +31,7 @@
         "short_name": "Tomorrow",
         "description": "View weather information for tomorrow",
         "url": "/tomorrow?source=pwa",
-        "icons": [{ "src": "images/tomorrow.png", "sizes": "192x192" }]
+        "icons": [{ "src": "/web1/images/tomorrow.png", "sizes": "192x192" }]
       }
     ],
     "description": "Weather forecast information",
