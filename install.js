@@ -18,6 +18,7 @@ function saveBeforeInstallPromptEvent(evt){
 }
 
 function installPWA(){
+    alert("a");
     deferredInstallPrompt.prompt();
 
     installButton.remove();
