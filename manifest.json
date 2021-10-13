@@ -1,6 +1,6 @@
 {
-    "short_name": "PwaSample",
-    "name": "PwaSample",
+    "short_name": "Weather",
+    "name": "Weather: Do I need an umbrella?",
     "icons": [
       {
         "src": "/images/icons-128.png",
