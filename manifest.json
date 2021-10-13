@@ -43,7 +43,7 @@
         "name": "How's weather today?",
         "short_name": "Today",
         "description": "View weather information for today",
-        "url": "/web1/today?source=pwa",
+        "url": "/web1/login.html?source=pwa",
         "icons": [{ "src": "/web1/images/today.png", "sizes": "192x192" }]
       },
       {
